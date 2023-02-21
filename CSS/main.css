@@ -1,2 +1,10 @@
+/* body color did not work */
+body{
+    margin :auto;
+    background-color :green;
+    text-align: center;
+    padding: 10px;
+    font-size : 14px;
+    font-family : Verdana ;
 
-body{color : green,}
+}
